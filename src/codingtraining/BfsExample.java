@@ -10,6 +10,7 @@ import java.util.StringTokenizer;
 public class BfsExample {
 	
 	//백준 2178 BFS 예시 https://www.acmicpc.net/problem/2178
+	//자세한 설명은 노션에 써놓겠음
 
 	static int N, M, map[][], count; // 각각 세로 가로 , 맵, count(횟수)
 	static boolean visited[][]; // 좌표별 방문여부 판단 배열 (이거없으면 무환루프남)
