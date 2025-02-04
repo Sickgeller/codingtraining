@@ -1,4 +1,4 @@
-package codingtraining;
+package codingtraining.graphsearch.deeptracking;
 
 import java.io.BufferedReader;
 import java.io.IOException;

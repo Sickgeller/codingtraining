@@ -1,4 +1,4 @@
-package codingtraining;
+package codingtraining.graphsearch.bellman_ford;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class baekjoon1865 {
+public class Baekjoon1865 {
 
 	// 벨만포드 알고리즘을 사용하여 음의 사이클을 체크하는 코드
 	static int TC, N, M, W, S, E, T;
@@ -85,15 +85,15 @@ public class baekjoon1865 {
 	}
 
 }
-
 class Edge {
 	int start;
 	int destination;
 	int weight;
-
+	
 	public Edge(int start, int destination, int weight) {
 		this.start = start;
 		this.destination = destination;
 		this.weight = weight;
 	}
 }
+
