@@ -1,4 +1,4 @@
-package codingtraining.graphsearch.bellman_ford;
+package codingtraining;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
