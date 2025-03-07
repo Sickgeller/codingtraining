@@ -1,4 +1,4 @@
-package codingtraining;
+package Hard;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -9,7 +9,7 @@ import java.util.Map;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-public class Baekjoob7662 {
+public class Baekjoon7662 {
 	
 	//우선순위큐 두개 이용해서 구현 상당히 난이도 있다고 생각
 	

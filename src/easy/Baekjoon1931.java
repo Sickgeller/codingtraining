@@ -1,4 +1,4 @@
-package codingtraining;
+package easy;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -10,7 +10,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class Baekjoon5430 {
+public class Baekjoon1931 {
 
 
 	public static void main(String[] args) throws NumberFormatException, IOException {

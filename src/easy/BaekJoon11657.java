@@ -1,4 +1,4 @@
-package codingtraining;
+package easy;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -9,6 +9,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.StringTokenizer;
+
+import Hard.Edge;
 
 public class BaekJoon11657 {
 

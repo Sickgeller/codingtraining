@@ -1,4 +1,4 @@
-package codingtraining;
+package Hard;
 
 import java.util.Scanner;
 import java.util.TreeSet;
